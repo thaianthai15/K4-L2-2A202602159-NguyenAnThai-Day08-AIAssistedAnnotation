@@ -1,0 +1,7 @@
+round,frame_id,object,action,rule_or_reason
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe ở vùng dưới bên trái,added,AI bỏ sót xe nên bổ sung khung theo phần thân xe nhìn thấy
+1,frame_0099.jpg,xe gần phía trái phía trên,deleted,Khung AI không còn phù hợp với đối tượng cần khoanh nên xóa
+1,frame_0182.jpg,xe lớn ở góc dưới bên phải,added,AI bỏ sót xe nên bổ sung khung và chỉ khoanh phần xe nhìn thấy
+1,frame_0227.jpg,xe ở vùng giữa bên phải,added,AI bỏ sót xe nên bổ sung khung theo ranh giới thân xe
+1,frame_0270.jpg,xe ở vùng phía trên bên phải,edited,Kéo khung để ôm sát hơn phần thân xe nhìn thấy
